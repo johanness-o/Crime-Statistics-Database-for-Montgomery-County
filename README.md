@@ -1,3 +1,6 @@
-## Crime-Statistics-Database-for-Montgomery-County
-•  Designed a SQL database with 8 normalized tables, reducing query execution time by 20%, helping residents identify high-crimezones for safety planning in Montgomery County, MD 
-•  Provided actionable insights, such as identifying high-crime areas, to help residents and business owners make informed safetydecisions
+This project focuses on creating a structured SQL database to analyze crime patterns in Montgomery County, MD.
+
+Features
+✅ Optimized Database Design: Developed an 8-table normalized SQL database, improving query efficiency by 20%.
+✅ Crime Data Insights: Identified high-crime zones to assist residents with safety planning.
+✅ Decision Support: Provided actionable insights for business owners and community members to make informed safety decisions.
